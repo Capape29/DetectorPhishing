@@ -28,7 +28,7 @@ Este dataset ha recopilado un enorme conjunto de datos de 651.191 URL, de las cu
 - Gaussian Naive Bayes  
 - Decision Tree Classifier  
 - **Random Forest Classifier**  — *Mejor modelo supervisado del proyecto*
-- Support Vector Machine (SVM) — *Mejor modelo supervisado del proyecto*
+- Support Vector Machine (SVM)
 
 ### Reducción de dimensionalidad
 - PCA  
