@@ -9,8 +9,10 @@
 ---
 
 ## Objetivo
+
+
 Desarrollar un sistema de detección de phishing capaz de analizar, clasificar y determinar de manera precisa si una URL corresponde a un sitio web legítimo o malicioso, mediante la integración de técnicas de aprendizaje automático, análisis de características estructurales y comportamentales de las URLs, y validación sobre conjuntos de datos reales. 
----
+
 
 ## Dataset
 
