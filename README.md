@@ -15,9 +15,9 @@ Desarrollar un sistema de detección de phishing capaz de analizar, clasificar y
 
 
 ## Dataset
+Este dataset ha recopilado un enorme conjunto de datos de 651.191 URL, de las cuales 428.103 son URL benignas o seguras, 96.457 son URL de desfiguración, 94.111 son URL de phishing y 32.520 son URL de malware. La figura 2 muestra su distribución en términos porcentuales. Como sabemos, una de las tareas más cruciales es seleccionar el conjunto de datos para un proyecto de aprendizaje automático. Hemos seleccionado este conjunto de datos de cinco fuentes diferentes.
+[Dataset](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset?utm_source=chatgpt.com)
 
-[Dataset]
----
 
 ## Modelos
 
