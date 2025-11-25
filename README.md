@@ -42,6 +42,6 @@ Este dataset ha recopilado un enorme conjunto de datos de 651.191 URL, de las cu
 
 ## Enlaces
 - [video](https://youtu.be/NHe4IDqEc6E)
-- [código principal]()
-- [código página web]()
-- [repositorio]()
+- [código principal](https://github.com/Capape29/DetectorPhishing/blob/main/notebooks/detectorPhishing_Supervisado.ipynb)
+- [repositorio](https://github.com/Capape29/DetectorPhishing)
+- [Drive](https://drive.google.com/drive/folders/1AjygrvKssQh7en3kD0ei3oMPP59eqlVL?usp=sharing)
